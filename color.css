@@ -1,0 +1,33 @@
+body{
+background: black;
+}
+
+img {
+  width: 300px;
+  height: 200px;
+}
+
+h2{
+  font-weight: lighter;
+}
+
+.color{
+  color: gainsboro;
+  font-size: 90px;
+}
+
+#brown{
+  color: brown;
+}
+
+#red{
+  color: red;
+}
+
+#orange{
+  color: orange;
+}
+
+#yellow{
+  color: yellow;
+}
