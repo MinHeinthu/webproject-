@@ -12,7 +12,7 @@ h2{
 }
 
 .color{
-  color: gainsboro;
+  color: black;
   font-size: 90px;
 }
 
@@ -30,4 +30,9 @@ h2{
 
 #yellow{
   color: yellow;
+}
+
+img {
+    width: 100%; /* Image will scale to 100% of the container's width */
+    height: auto; /* Height will adjust proportionally */
 }
